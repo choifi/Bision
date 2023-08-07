@@ -14,6 +14,17 @@
 #### 201813063 최하랑
 
 
+![image](https://github.com/choifi/Bision/assets/62766631/a2b8791a-2aea-4488-985e-1645e5845bdd)
+
+
+사용방법
+![image](https://github.com/choifi/Bision/assets/62766631/6c83f0ef-c630-4ad6-9443-3bcabfe677a3)
+![image](https://github.com/choifi/Bision/assets/62766631/eea5a4e1-da16-4b71-8958-0b7abf4d9d83)
+![image](https://github.com/choifi/Bision/assets/62766631/4cac9ea6-e031-41fb-b8ea-9752eac98bb8)
+![image](https://github.com/choifi/Bision/assets/62766631/7db4943e-9f86-458b-b8bf-37c1a9c91469)
+
+
+
 ----------
 
 설계도
