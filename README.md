@@ -40,16 +40,10 @@
 
 - 개발자들 로고를 보여주면서 로딩 후 어플이 시작된다.
 
-<div>
- <img width="200" src="https://user-images.githubusercontent.com/33260476/41773847-6c207432-7658-11e8-8d75-1e643adba81d.jpg">
- <img width="200" src="https://user-images.githubusercontent.com/33260476/41773848-6c8eb2d0-7658-11e8-88fa-8f54f7bf923d.jpg">
-</div>
-
-
 - 어플 사용 방법을 영상으로 보여주는 도움말 화면이 나옴. 
 다시보지 않기 버튼을 누르면 앱 시작 후 자동으로 시작되는 이 화면이 다시는 나오지 않는다. 그냥 닫기 버튼은 그냥 닫기.
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773860-74005cda-7658-11e8-93ca-57ab9c894847.jpg">
+
 
 ## 2. 메인 화면
 
