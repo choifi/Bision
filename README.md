@@ -97,7 +97,7 @@
 
 - 메뉴 : 공지사항, 고객센터/도움말, 환경설정 
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773861-7492c70a-7658-11e8-903e-4fb0cce4bd30.jpg">
+
 
 - 홈버튼 : 누르면 메인화면으로 넘어감 
  
