@@ -14,22 +14,13 @@
 #### 201813063 최하랑
 
 
-![image](https://github.com/choifi/Bision/assets/62766631/a2b8791a-2aea-4488-985e-1645e5845bdd)
 
 
 
 
+![image](https://github.com/choifi/Bision/assets/62766631/364480c3-c5f7-4dc9-8766-9d4549e591d8)
 
-
-
-사용방법
-
-
-![image](https://github.com/choifi/Bision/assets/62766631/6c83f0ef-c630-4ad6-9443-3bcabfe677a3)
-![image](https://github.com/choifi/Bision/assets/62766631/eea5a4e1-da16-4b71-8958-0b7abf4d9d83)
-![image](https://github.com/choifi/Bision/assets/62766631/4cac9ea6-e031-41fb-b8ea-9752eac98bb8)
-![image](https://github.com/choifi/Bision/assets/62766631/7db4943e-9f86-458b-b8bf-37c1a9c91469)
-
+![image](https://github.com/choifi/Bision/assets/62766631/8f6b9b6b-fff3-478d-8321-8aa64e753285)
 
 
 
@@ -43,7 +34,7 @@
 ------
 --------------
 
-+ 테마 색 : 밝은 초록색 계열, 핑크색 계열로 한다
+
 
 ## 1. 스타트 화면
 
@@ -68,7 +59,7 @@
 
 - 인기순위 리스트를 보여주는 란 
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773857-71e28e5a-7658-11e8-9d00-14c675ef1b31.jpg">
+
 
 ## 3. 전시회＆박물관 화면 
 
@@ -78,7 +69,7 @@
 
 - 입장 버튼
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773856-7027aa64-7658-11e8-8ed0-4b58e7d7bf92.jpg">
+
 
 ## 4. 수신 화면
 
@@ -90,7 +81,7 @@
 
 - 비콘 수신되기 전에는 내부 지도가 나온다. 비콘 수신이 되면 지도는 백그라운드로, 설명이 위로 올라온다. 
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773864-75141a62-7658-11e8-9630-39cfb9d93442.jpg">
+
 
 ## 5. 문의 화면
 
@@ -100,13 +91,13 @@
 
 - 제출 버튼
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773852-6f05b338-7658-11e8-84b7-242a6b4381e9.jpg">
+
 
 ## 6. 도움말 화면
 
 - 영상
 
-<img width="200" src="https://user-images.githubusercontent.com/33260476/41773855-6f9d8154-7658-11e8-8d9e-be27282f96ea.jpg">
+
 
 ## 7. 부록
 
